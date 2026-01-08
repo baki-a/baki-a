@@ -25,7 +25,7 @@
 
 ## 🌟 Featured Projects
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Multi-Agent-PoUW-Consensus&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_USERNAME/Multi-Agent-PoUW-Consensus)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=baki-a&repo=Multi-Agent-PoUW-Consensus&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_USERNAME/Multi-Agent-PoUW-Consensus)
 
 </div>
 
