@@ -25,7 +25,7 @@
 
 ## 🌟 Featured Projects
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=baki-a&repo=Multi-Agent-PoUW-Consensus&theme=tokyonight)](https://github.com/baki-a/Multi-Agent-PoUW-Consensus)
+[![Multi-Agent-PoUW-Consensus](https://github-readme-stats.vercel.app/api/pin/?username=baki-a&repo=Multi-Agent-PoUW-Consensus&theme=tokyonight&hide_border=true)](https://github.com/baki-a/Multi-Agent-PoUW-Consensus)
 
 </div>
 
