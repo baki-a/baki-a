@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Baki&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Animated Subtitle -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%8E%93+Computer+Science+%40+University+of+Barcelona;%F0%9F%92%BB+Passionate+about+AI+%26+Blockchain;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%8E%93+Computer+Science+%40+University+of+Barcelona;%F0%9F%92%BB+Passionate+about+AI+%26+Blockchain;%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 </div>
 
@@ -81,7 +81,7 @@ interests:
 
 
 
-<img src="https://komarev.com/ghpvc/?username=baki-a&color=A177FE&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=baki-a&color=A177FE&style=flat-square&label=" />
 
 </div>
 
