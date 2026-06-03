@@ -2,11 +2,11 @@
 
 **Computer Engineering @ Universitat de Barcelona** · Graduating 2027 · Barcelona, Spain 🇪🇸
 
-I work close to the metal and care about performance — C/C++, bare-metal ARM, concurrent networking — and I'm increasingly focused on the **systems side of machine learning**: distributed runtimes, throughput, and reinforcement learning.
+C/C++, AI/ML, concurrent networking, and I'm increasingly focused on the **systems side of machine learning**: distributed runtimes, throughput, and reinforcement learning.
 
 Most of my projects live at the intersection of **algorithms and systems**: a ray tracer built for speed, a P2P protocol built for concurrency, embedded firmware with no RTOS, and RL agents solving NP-hard optimization under real-world constraints.
 
-🔭 **Going deeper on:** ML systems & performance, distributed training/inference, and reinforcement learning.
+🔭**Going deeper on:** ML systems & performance, distributed training/inference, and reinforcement learning.
 
 ---
 
@@ -18,13 +18,11 @@ Blockchain consensus that swaps wasteful hash mining for *useful* computation �
 ### [TracerToy — 3D Ray Tracing Engine](https://github.com/baki-a/tracertoy-graphics) · C++17 · GLM · CMake
 Recursive ray tracer from scratch: reflections, refractions (Snell's law + total internal reflection), Blinn–Phong shading, stochastic anti-aliasing, and AABB acceleration structures. JSON-driven scene loader with HDRI environment maps.
 
-<!-- Make this repo public, then link it here: https://github.com/baki-a/ares-p2p-protocol -->
-### ARES — P2P File-Sharing Protocol · Java · TCP/IP
+### [ARES — P2P File-Sharing Protocol](https://github.com/baki-a/ares-p2p-protocol) · Java · TCP/IP
 Custom binary opcode protocol over TCP/IP; asynchronous multithreaded server with a `ConcurrentHashMap` registry; 8 KB chunked transfers routed through a central tracker with graceful disconnect handling.
 
-<!-- Make this repo public, then link it here: https://github.com/baki-a/msp432-wall-following-robot -->
-### MSP432 Wall-Following Robot · Bare-Metal C · ARM Cortex-M4F
-Autonomous robot in bare-metal C with no RTOS: interrupt-driven UART (Dynamixel @ 500 kbps), hardware timers, IR sensors, and a hierarchical reactive state machine with a proportional controller.
+### [MSP432 Wall-Following Robot](https://github.com/baki-a/msp432-wall-following-robot) · C · ARM Cortex-M4F
+Autonomous robot in C with no RTOS: interrupt-driven UART (Dynamixel @ 500 kbps), hardware timers, IR sensors, and a hierarchical reactive state machine with a proportional controller.
 
 ---
 
