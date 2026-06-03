@@ -1,95 +1,35 @@
-<div align="center">
+# Anass Baki Achkoukar
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Baki&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+**Computer Engineering @ Universitat de Barcelona** · Graduating 2027 · Barcelona, Spain 🇪🇸
 
-<!-- Animated Subtitle -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%8E%93+Computer+Science+%40+University+of+Barcelona;%F0%9F%92%BB+Passionate+about+AI+%26+Blockchain;%F0%9F%9A%80" alt="Typing SVG" /></a>
+I work close to the metal and care about performance — C/C++, bare-metal ARM, concurrent networking — and I'm increasingly focused on the **systems side of machine learning**: distributed runtimes, throughput, and reinforcement learning.
 
-</div>
+Most of my projects live at the intersection of **algorithms and systems**: a ray tracer built for speed, a P2P protocol built for concurrency, embedded firmware with no RTOS, and RL agents solving NP-hard optimization under real-world constraints.
 
----
-
-<div align="center">
-
-##  About Me
-
-</div>
-
-```yaml
-location: Barcelona, Spain 🇪🇸
-education: Computer Science @ Universitat de Barcelona
-interests: 
-  - Artificial Intelligence
-  - Blockchain & Distributed Systems
-  - Algorithm Design
-
-```
+🔭 **Going deeper on:** ML systems & performance, distributed training/inference, and reinforcement learning.
 
 ---
 
-<div align="center">
+## Featured work
 
-## 🛠️ Tech Stack
+### [Multi-Agent Proof-of-Useful-Work Consensus](https://github.com/baki-a/Multi-Agent-PoUW-Consensus) · Python
+Blockchain consensus that swaps wasteful hash mining for *useful* computation — solving NP-hard Vehicle Routing across 20+ TSPLIB maps. Four competing agents (A\*, Expectimax, Minimax + alpha-beta, Q-learning RL) in a three-layer stochastic environment with an adversarial pursuit layer. **The RL agent cut routing cost ~33% vs. an A\* baseline** over a 22-round benchmark.
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python&theme=dark" height="50" />
+### [TracerToy — 3D Ray Tracing Engine](https://github.com/baki-a/tracertoy-graphics) · C++17 · GLM · CMake
+Recursive ray tracer from scratch: reflections, refractions (Snell's law + total internal reflection), Blinn–Phong shading, stochastic anti-aliasing, and AABB acceleration structures. JSON-driven scene loader with HDRI environment maps.
 
-<br><br>
+<!-- Make this repo public, then link it here: https://github.com/baki-a/ares-p2p-protocol -->
+### ARES — P2P File-Sharing Protocol · Java · TCP/IP
+Custom binary opcode protocol over TCP/IP; asynchronous multithreaded server with a `ConcurrentHashMap` registry; 8 KB chunked transfers routed through a central tracker with graceful disconnect handling.
 
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,github&theme=dark" height="40" />
-
-</div>
-
----
-
-<div align="center">
-
-## Featured Project
-
-<a href="https://github.com/baki-a/Multi-Agent-PoUW-Consensus">
-<img src="https://img.shields.io/badge/🔗_Multi--Agent--PoUW--Consensus-Blockchain_Simulation_with_AI-A177FE?style=for-the-badge&labelColor=1a1b27" />
-</a>
-
-<br><br>
-
-> *Proof-of-Useful-Work blockchain simulation using AI agents (A*, Minimax, Q-Learning)*  
-> *to solve Vehicle Routing Problems on real-world maps.*
-
-<br>
-
-<a href="https://github.com/baki-a/Multi-Agent-PoUW-Consensus">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/NetworkX-4C8CBF?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-</a>
-
-</div>
+<!-- Make this repo public, then link it here: https://github.com/baki-a/msp432-wall-following-robot -->
+### MSP432 Wall-Following Robot · Bare-Metal C · ARM Cortex-M4F
+Autonomous robot in bare-metal C with no RTOS: interrupt-driven UART (Dynamixel @ 500 kbps), hardware timers, IR sensors, and a hierarchical reactive state machine with a proportional controller.
 
 ---
 
-<div align="center">
+## Toolbox
+`C` · `C++` · `Python` · `Java` · `ARM Assembly` · `SQL` · `Linux` · `Git` · `CMake`
 
-## GitHub Activity
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baki-a&theme=tokyonight" width="90%"/>
-
-</div>
-
----
-
-<div align="center">
-
-
-
-<img src="https://komarev.com/ghpvc/?username=baki-a&color=A177FE&style=flat-square&label=" />
-
-</div>
-
----
-
-<div align="center">
-
-
-
-
-</div>
+## Reach me
+📧 Renz.anass@gmail.com &nbsp;·&nbsp; 🔗 *add your LinkedIn URL here*
