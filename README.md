@@ -30,4 +30,4 @@ Autonomous robot in C with no RTOS: interrupt-driven UART (Dynamixel @ 500 kbps)
 `C` · `C++` · `Python` · `Java` · `ARM Assembly` · `SQL` · `Linux` · `Git` · `CMake`
 
 ## Reach me
-📧 Renz.anass@gmail.com &nbsp;·&nbsp; 🔗 *add your LinkedIn URL here*
+📧 Renz.anass@gmail.com &nbsp;·&nbsp;
